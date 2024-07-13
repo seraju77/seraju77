@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/how_to_become_a_data_scientist.jpg)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/how_to_become_a_data_scientist.jpg)
 <h1 align="center">Hi 👋, I'm Md Serajun Nabi</h1>
 <h3 align="center">A passionate Data Scientist from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif">
