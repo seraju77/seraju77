@@ -23,9 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md serajun nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md serajun nabi" height="30" width="40" /></a>
-<a href="https://kaggle.com/md serajun nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="md serajun nabi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/change of time" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="change of time" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/md serajun nabi](https://www.linkedin.com/in/md-serajun-nabi-963409247?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGBCXRGYYTfy3GWv5wPNtuw%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md serajun nabi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
